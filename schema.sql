@@ -1,0 +1,2 @@
+-- Placeholder for Deliverable 2.
+-- Core PostgreSQL schema, indexes, migration notes, and required queries will go here.
